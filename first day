@@ -1,0 +1,6 @@
+from __future__ import  division
+name = raw_input("intput your name:")
+print 10%3
+print 010
+print name
+print 2**3
